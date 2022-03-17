@@ -95,10 +95,10 @@ We can see the result as we wanted.
 
 <p align="center">
   <img src="img/linux_study.png">
-  <figcaption align="center"> <b>Image 01</b>: Script results </figcaption>
 </p>
+<p align="center"><b>Image 01</b>: Script results</p>
 
-4. Conclusion
+1. Conclusion
 
 The script worked to the problem described. Obviously, it's the simplest implementation where we read the array_seq completely every time  that the for loop starts. If we consider big sequences, definitely, due to algorithms analysis and design, the solution described here is not the best one. 
 
